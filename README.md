@@ -1,1 +1,1 @@
-Simple experiments with generative models using Hugging Face Diffusers. Inspired by my interest in text-to-image and 3D generation tools.
+These scripts are my personal experiments with diffusion models, inspired by tools like Leonardo.ai and Masterpiece X. I often tweak prompts and parameters to understand how models respond.
